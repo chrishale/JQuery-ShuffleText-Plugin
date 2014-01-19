@@ -12,7 +12,7 @@ How to use it ?
 To use **JQuery Shuffle Text** you need to target the content you want to shuffle and pass the output content to the function.
 
 ```js
-    $("#myTarget").shuffleText("My output text");
+$("#myTarget").shuffleText("My output text");
 ```
 Options
 -------------------------
@@ -24,14 +24,21 @@ Options
 + **complete** : Something to do when the shuffle is completed - *Default:* _**null**_
 
 ```js
-    $("#myTarget").shuffleText("My output text", {
-        frames : 30,
-        maxSpeed : 2500,
-        amount : 4,
-        complete : function(){
-            // Do something
-        }
-    });
+$("#myTarget").shuffleText("My output text", {
+    frames : 30,
+    maxSpeed : 2500,
+    amount : 4,
+    complete : function(){
+        // Do something
+    }
+});
+```
+
+Finally you can choose your own chars to appear during the shuffle by editing the content of the array
+
+```js
+// Add/Remove Chars You Want To Appear During Shuffle In This Array
+var aChars = new Array("a","b","c","d","e","f","g","h","i","j","k","l","m","n","o","p","k","r","s","t","u","v","w","x","y","z","A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","Q","R","S","T","U","V","W","X","Y","Z");
 ```
 Copyright
 -------------------------
