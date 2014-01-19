@@ -6,6 +6,8 @@ Easy to use, it offers a **set of options** to customize it...
 
 Be aware this plugin is efficient with **small text content**. Don't use it with long paragraphs for example.
 
+### [Watch the demo](http://www.anthonydupont.be/lab/ShuffleText)
+
 How to use it ?
 -------------------------
 
