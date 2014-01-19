@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="869a463d-63a3-4d1f-9af3-15322327f5bf" name="Default" comment="" />
+    <list default="true" id="869a463d-63a3-4d1f-9af3-15322327f5bf" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+    </list>
     <ignored path="ShuffleText.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,7 +28,7 @@
       <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="0" selection-start="188" selection-end="188" vertical-scroll-proportion="0.06142506" vertical-offset="0" max-vertical-offset="1221">
+            <state line="4" column="0" selection-start="130" selection-end="130" vertical-scroll-proportion="0.049140047" vertical-offset="0" max-vertical-offset="1221">
               <folding />
             </state>
           </provider>
@@ -163,7 +165,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="188" selection-end="188" vertical-scroll-proportion="0.06142506" vertical-offset="0" max-vertical-offset="1221">
+        <state line="4" column="0" selection-start="130" selection-end="130" vertical-scroll-proportion="0.049140047" vertical-offset="0" max-vertical-offset="180">
           <folding />
         </state>
       </provider>
