@@ -7,7 +7,7 @@ Easy to use, it offers a **set of options** to customize it...
 **Note:**
 Be aware this plugin is efficient with **small text content**. Don't use it with long paragraphs for example.
 
-### [Live Demo](http://www.anthonydupont.be/lab/ShuffleText)
+#### [Live Demo](http://www.anthonydupont.be/lab/ShuffleText)
 How to use it ?
 -------------------------
 
