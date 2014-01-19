@@ -1,13 +1,14 @@
 JQuery Shuffle Text 1.0
 ===========
 
+### [Live Demo](http://www.anthonydupont.be/lab/ShuffleText)
+
 JQuery Shuffle Text is a **lightweight** JQuery plugin able to shuffle any of your text content.
 Easy to use, it offers a **set of options** to customize it...
 
 **Note:**
 Be aware this plugin is efficient with **small text content**. Don't use it with long paragraphs for example.
 
-### [Live Demo](http://www.anthonydupont.be/lab/ShuffleText)
 How to use it ?
 -------------------------
 
