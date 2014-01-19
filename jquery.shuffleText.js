@@ -1,7 +1,7 @@
 /*
  * Shuffle Text Plugin 1.0
  * Created by Anthony Du Pont
- * http://www.anthonydupont.be
+ * http://www.twitter.com/Anthodpnt
  */
 
 (function ($) {
