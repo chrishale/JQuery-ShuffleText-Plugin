@@ -14,6 +14,10 @@ How to use it ?
 To use **JQuery Shuffle Text** you need to target the content you want to shuffle and pass the output content to the function.
 
 ```js
-
+    $("#myTarget").shuffleText("My output text");
 ```
+Options
+-------------------------
+
++ **frames** : The duration in milliseconds of the shuffle for each letter (Default: **40**)
 
