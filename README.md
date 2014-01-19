@@ -35,9 +35,7 @@ Options
 ```
 Copyright
 -------------------------
-**JQuery Shuffle Text** is created by [Anthony Du Pont](http://www.twitter.com/Anthodpnt) and is completely **free for commercial use**
-
-
+**JQuery Shuffle Text** is created by [Anthony Du Pont](http://www.twitter.com/Anthodpnt) and is completely **free for commercial use**.
 If you enjoy this plugin, please share it.
 
 **Notes**: Any problem to use this plugin ? Please [contact me](mailto:antho.dpnt@gmail.com)
