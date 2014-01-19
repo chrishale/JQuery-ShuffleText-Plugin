@@ -9,3 +9,5 @@ Be aware this plugin is efficient with **small text content**. Don't use it with
 How to use it ?
 -------------------------
 
+To use **jQuery Shuffle Text** you need to target the content you want to shuffle and set the output content as the argument.
+
