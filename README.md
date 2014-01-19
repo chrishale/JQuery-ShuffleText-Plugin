@@ -21,10 +21,10 @@ Options
 
 **JQuery Shuffle Text** offers a set of options to customize it:
 
-+ **frames** : The duration in milliseconds of the shuffle for each letter - *Default:* _**40**_
++ **frames**   : The duration in milliseconds of the shuffle for each letter - *Default:* _**40**_
 + **maxSpeed** : The maximum duration of the global shuffle - *Default:* _**1000**_
-+ **amount** : The number of shuffle to do for each letter - *Default:* _**3**_
-+ **complete** : The function to launch when the shuffle is completed - *Default:* _**null**_
++ **amount**   : The number of shuffle to do for each letter - *Default:* _**3**_
++ **complete** : Something to do when the shuffle is completed - *Default:* _**null**_
 
 ```js
     $("#myTarget").shuffleText("My output text", {
