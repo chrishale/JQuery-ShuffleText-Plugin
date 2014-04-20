@@ -43,10 +43,10 @@
                     defaults.amount = 0;
 
                 // Calculate Duration Of Global Shuffle
-                if((iLength * (defaults.amount + 1) * defaults.frames) > defaults.maxSpeed){
-                    duration = defaults.maxSpeed / (iLength * (defaults.amount + 1));
+                if((iLength * (defaults.amount + 1) * defaults.time) > defaults.maxTime){
+                    duration = defaults.maxTime / (iLength * (defaults.amount + 1));
                 }else{
-                    duration = defaults.frames;
+                    duration = defaults.time;
                 }
 
                 randomChars();
