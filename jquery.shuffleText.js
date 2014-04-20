@@ -1,7 +1,7 @@
 /*
- * Shuffle Text Plugin 1.0
+ * Shuffle Text Plugin 1.0.1
  * Created by Anthony Du Pont
- * http://www.twitter.com/Anthodpnt
+ * http://www.anthonydupont.be
  */
 
 (function ($) {
@@ -15,8 +15,8 @@
 
         // Defaults Settings
         var defaults = $.extend({
-            frames   : 40,    // Duration In ms (Milliseconds) Of Shuffle For Each Letter
-            maxSpeed : 1000,  // Max Duration In ms (Milliseconds) Of Global Shuffle
+            time     : 40,    // Time In ms (Milliseconds) Of Shuffle For Each Letter
+            maxTime  : 1000,  // Max Time In ms (Milliseconds) Of Global Shuffle
             amount   : 3,     // Amount Of Shuffle For Each Letter
             complete : null   // Do Something When Shuffle Is Completed
         }, options);

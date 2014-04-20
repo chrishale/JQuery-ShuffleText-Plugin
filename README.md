@@ -1,4 +1,4 @@
-JQuery Shuffle Text 1.0
+JQuery Shuffle Text 1.0.1
 ===========
 
 ### [Live Demo](http://www.anthonydupont.be/lab/ShuffleText)
@@ -18,16 +18,16 @@ Options
 -------------------------
 **JQuery Shuffle Text** offers a set of options to customize it:
 
-+ **frames**   : The duration in milliseconds of the shuffle for each letter - *Default:* _**40**_
-+ **maxSpeed** : The maximum duration of the global shuffle - *Default:* _**1000**_
++ **time**     : The time in milliseconds (ms) of the shuffle for each letter - *Default:* _**40**_
++ **maxTime**  : The maximum time of the global shuffle - *Default:* _**1000**_
 + **amount**   : The number of shuffle to do for each letter - *Default:* _**3**_
 + **complete** : Something to do when the shuffle is completed - *Default:* _**null**_
 
 ```js
 $("#myTarget").shuffleText("My output text", {
-    frames : 30,
-    maxSpeed : 2500,
-    amount : 4,
+    time     : 30,
+    maxTime  : 2500,
+    amount   : 4,
     complete : function(){
         // Do something
     }
